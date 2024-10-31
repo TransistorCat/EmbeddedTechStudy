@@ -1,12 +1,12 @@
 https://langgptai.feishu.cn/docx/TvqUdARgsowP35x0044cYD0onif
 ## 数据思维模型
 
-![](人工智能/image/Pasted%20image%2020241031202158.png)
+![](image/Pasted%20image%2020241031202158.png)
 
 - 数据就像是故事中的线索
 - 模型就是找出线索之间的关系
 - 预测就是用这些关系来猜测新的故事
-![](人工智能/image/Pasted%20image%2020241031202426.png)
+![](image/Pasted%20image%2020241031202426.png)
 
 - 数据输入：月亮的亮度，星星数量，最近几天的气温 等数据
 - 模型学习：从数据中发现「月明星稀」这个特征一般对应第二天 「天气晴朗」

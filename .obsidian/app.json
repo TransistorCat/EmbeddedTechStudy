@@ -2,6 +2,8 @@
   "alwaysUpdateLinks": true,
   "showLineNumber": false,
   "readableLineLength": true,
-  "newLinkFormat": "absolute",
-  "useMarkdownLinks": true
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./image",
+  "newFileLocation": "current"
 }
